@@ -20,7 +20,9 @@ This user controller handles user-related functionalities such as registration, 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Configure environment variables.
-4. Run the application using `npm start`.
+4. Run the application using `npm run dev`.
+
+Run the task2 question 1 using `npm run task`.
 
 
 ## Project Structure
