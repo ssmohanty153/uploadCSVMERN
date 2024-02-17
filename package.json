@@ -5,7 +5,8 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon -r dotenv/config --experimental-json-modules src/server.js"
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/server.js",
+    "task": "node src/Task2/task2.1.js"
   },
   "keywords": [
     "javascript",
