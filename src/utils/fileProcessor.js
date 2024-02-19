@@ -39,7 +39,7 @@ function processXLSXData(collection, filePath) {
 }
 
 // Process CSV or XLSX file based on file extension
-const collection = db.collection('your_collection');
+const collection = db.collection('policydata');
 if (filePath.endsWith('.csv')) {
     processCSVData(collection, filePath);
 } else if (filePath.endsWith('.xlsx')) {
