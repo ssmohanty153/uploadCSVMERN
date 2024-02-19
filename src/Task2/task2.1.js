@@ -1,4 +1,3 @@
-import os from 'os';
 import utils from 'os-utils';
 import { exec } from 'child_process';
 
